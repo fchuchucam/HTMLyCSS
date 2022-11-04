@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+*.DS_Store
+=======
+* .DS_Store
+>>>>>>> header
+=======
+* .DS_Store
+>>>>>>> footer
+
+*.mp4
